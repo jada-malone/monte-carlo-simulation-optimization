@@ -1,14 +1,32 @@
-# Monte Carlo Simulation & Optimization
+# Simulation & Optimization: Monte Carlo Decision Analysis
 
-*Project summary* — a write-up of simulation and optimization work in Python; code is not published here.
+**Python**
 
-**What:** Built Monte Carlo simulation and optimization models to quantify uncertainty, compare scenarios, and support data-driven decision analysis.
+> **📂 Files coming soon.** This page is the project overview. The notebooks, code and visuals are being added to this repo; until then, this README is the summary of the work.
 
-**Tools:** Python
+## Overview
+I built Monte Carlo simulation and optimization models in Python to quantify uncertainty, compare scenarios, and support data-driven decision analysis.
 
-**My role:** Designed and built the simulation and optimization models and the scenario comparisons.
+## The goal
+Decisions made with uncertain inputs are risky when they rest on a single best guess. Simulation shows the range of possible outcomes, and optimization finds the best choice across them.
 
-**Results:** Uncertainty quantified across scenarios, giving a data-backed basis for decision analysis.
+## Approach
+1. **Monte Carlo simulation:** modeled the uncertain inputs and ran many simulated trials to see the full range of outcomes, not just one estimate.
+2. **Scenario comparison:** compared scenarios side by side using the simulated results.
+3. **Optimization:** built optimization models to identify the best decision.
+4. **Decision support:** used the results to support data-driven decision analysis.
+
+## Tools
+| Area | Tools |
+|---|---|
+| Language | Python |
+| Methods | Monte Carlo simulation, optimization modeling, scenario analysis |
+
+## Results
+Uncertainty quantified and scenarios compared, giving a data-driven basis for the decision.
+
+## Skills demonstrated
+Monte Carlo simulation · optimization · scenario analysis · quantifying uncertainty · decision analysis
 
 ---
-Jada Malone · [LinkedIn](https://www.linkedin.com/in/jada-malone-509170280)
+**Jada Malone** · Data Analyst · [GitHub profile](https://github.com/jada-malone) · [LinkedIn](https://www.linkedin.com/in/jada-malone-509170280)
